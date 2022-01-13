@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://genarogg.tk">
+    <img alt="genarogg-logo" src="https://genarogg.github.io/link-To-my-brand/img/logoGG.svg" width="120" />
     <img alt="genarogg-logo" src="https://genarogg.github.io/link-To-my-brand/img/isotipo.svg" width="60" />
   </a>
 </p>
 
----
+
 <h1 align="center">
   Crea un Carousel Responsive Fácilmente con Glider.js
 </h1>
