@@ -1,12 +1,14 @@
-# Crea un Carousel Responsive Fácilmente con Glider.js
 <p align="center">
   <a href="https://genarogg.tk">
-    <img alt="Gatsby" src="https://genarogg.github.io/link-To-my-brand/img/isotipo.svg" width="60" />
+    <img alt="genarogg-logo" src="https://genarogg.github.io/link-To-my-brand/img/isotipo.svg" width="60" />
   </a>
 </p>
+
+---
 <h1 align="center">
-  Genarogg - WebSite 
+  Crea un Carousel Responsive Fácilmente con Glider.js
 </h1>
+
 
 _Link del proyecto_ <a href="https://genarogg.github.io/slider-con-glider/">ver.</a>
 
